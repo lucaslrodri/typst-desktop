@@ -1,7 +1,7 @@
 # Typst Desktop
 
 <p align="center">
-  <em>A standalone desktop application for Typst web editor, built with Tauri</em>
+  <em>A standalone desktop application for [Typst](https://typst.app/) web editor, built with [Tauri](https://v2.tauri.app/)</em>
 </p>
 
 ![App screenshot](https://raw.githubusercontent.com/lucaslrodri/typst-desktop/main/assets/screenshot.png)
