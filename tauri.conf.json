@@ -1,6 +1,6 @@
 {
   "$schema": "https://schema.tauri.app/config/2",
-  "productName": "typst-desktop",
+  "productName": "Typst Desktop",
   "version": "1.0.0",
   "identifier": "com.lucaslrodri.typst-desktop.app",
   "build": {
@@ -34,6 +34,9 @@
       "icons/128x128@2x.png",
       "icons/icon.icns",
       "icons/icon.ico"
-    ]
+    ],
+    "category": "Productivity",
+    "shortDescription": "A standalone desktop application for Typst web editor",
+    "longDescription": "Typst Desktop is a standalone desktop application that allows you to use the Typst web editor without needing to open a browser."
   }
 }
